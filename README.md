@@ -5,4 +5,6 @@ Roles:
 -Verificador: Aida Padilla
 -Comunicador: Andrea Hidalgo
 
+TODO OK!
+
 Link video:
